@@ -1,7 +1,7 @@
 {
-  "name": "Hashzi-1",
+  "name": "𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫",
   "version": "1.3.2",
-  "description": "Amazone project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./Hashzi-1/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
