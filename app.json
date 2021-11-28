@@ -1,6 +1,6 @@
 {
-    "name": "Amazone Alexa V8",
-    "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
+    "name": "𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫 V8",
+    "description": "𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫 is a chat bot for WhatsApp. Makes it easy and Working perfectly",
     "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
     "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
@@ -19,7 +19,7 @@
         "BIO": {
             "description": "Change Your live Bio | ඔබේ About එකට අවශ්‍ය දෙයක් මෙහි ලියන්න",
             "required": false,
-            "value": "ɪ ᴀᵐ ⁿᵒᵗ ᵖᵉʳᶠᵉᶜᵗ ʙᵘᵗ ɪ  ᴀᵐ ʟⁱᵐⁱᵗᵉᵈ ᴇᵈⁱᵗⁱᵒⁿ👀🔥"
+            "value": "𝐈`𝐌 𝐍𝐎𝐓 𝐏𝐄𝐑𝐅𝐄𝐂𝐓 𝐁𝐔𝐓 𝐈 𝐀𝐌 𝐋𝐈𝐌𝐈𝐓𝐄𝐃 𝐄𝐃𝐈𝐓𝐈𝐎𝐍🔥"
         },
         "AUTO_STICKER": {
             "description": "If you likes Auto Sticker you can write 'true'. Otherwise false",
@@ -29,22 +29,22 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "©𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫"
         },
         "FULL_ALEXA": {
-            "description": "Activate alexa chat bot",
+            "description": "𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫 chat bot",
             "required": false,
             "value": "false"
         },
         "SONGD": {
             "description": "Customizable Song Download message",
             "required": false,
-            "value": "*◦•●◉Downloading Your Song◉●•◦*"
+            "value": "*◦•●◉Downloading Your Song😽☘️🥀◉●•◦*"
         },
         "SONGU": {
             "description": "Customizable Song upload message",
             "required": false,
-            "value": "*◦•●◉✿Uploading Your Song✿◉●•◦*"
+            "value": "*◦•●◉✿Uploading Your Song😽☘️🥀g✿◉●•◦*"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "Made By 𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -236,7 +236,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ 𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫 ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ 𝓠ᴜᴇᴇɴ ᴀꜱʜɪ°🧸💫 ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
         }
     },
     "addons": [{
